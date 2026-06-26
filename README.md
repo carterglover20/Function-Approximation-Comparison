@@ -43,4 +43,4 @@ Machine Learning, Neural Networks, Polynomial Regression, Function Approximation
 
 
 
-[View Slides](https://github.com/carterglover20/Function-Approximation-Comparison/raw/main/Function_Approximation_Slides.pdf)
+[Download Slides](https://github.com/carterglover20/Function-Approximation-Comparison/raw/main/Function_Approximation_Slides.pdf)
