@@ -39,3 +39,8 @@ Performance is evaluated using Mean Squared Error (MSE).
 
 ## Topics
 Machine Learning, Neural Networks, Polynomial Regression, Function Approximation, PyTorch
+
+
+
+
+[View Slides](https://github.com/carterglover20/Function-Approximation-Comparison/raw/main/Function_Approximation_Slides.pdf)
